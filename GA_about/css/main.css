@@ -1,5 +1,6 @@
 p {
 	font-family: helvetica, sans-serif;
+	
 }
 
 a:link {
@@ -9,7 +10,7 @@ a:link {
 
 a:visited {
 	text-decoration: none;
-	color: gray;
+	color: white;
 	}
 
 nav {
@@ -19,8 +20,13 @@ nav {
 body {
 	background-color: #8B93A7;
 	font-family: helvetica, sans-serif;
+	text-align: center;
 }
 
 h1 {
+	text-align: center;
+}
+
+p.photo{
 	text-align: center;
 }
