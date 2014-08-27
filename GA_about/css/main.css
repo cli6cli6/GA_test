@@ -1,13 +1,7 @@
 p {
-	font-size: 20px;
-}
-h1 {font-size: 45px;
+	font-family: helvetica, sans-serif;
 }
 
-body {
-	
-
-}
 a:link {
 	text-decoration: none;
 	color: pink;
@@ -18,5 +12,15 @@ a:visited {
 	color: gray;
 	}
 
+nav {
+	text-align: center;
+}
 
+body {
+	background-color: #8B93A7;
+	font-family: helvetica, sans-serif;
+}
 
+h1 {
+	text-align: center;
+}
