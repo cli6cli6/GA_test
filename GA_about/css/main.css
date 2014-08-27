@@ -5,8 +5,7 @@ h1 {font-size: 45px;
 }
 
 body {
-	background-image: url(http://www.pageresource.com/wallpapers/wallpaper/pink-free-glitter_3261830.jpg);
-	background-repeat: repeat;
+	
 
 }
 a:link {
@@ -19,11 +18,5 @@ a:visited {
 	color: gray;
 	}
 
-body, a:hover {
-	cursor: url(http://cur.cursors-4u.net/games/gam-12/gam1191.cur), progress !important;
-}
 
-li {
-	list-style-image: url(http://www.wilsoninfo.com/bullet_16_animated.gif)
-}
 
