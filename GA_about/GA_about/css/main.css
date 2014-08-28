@@ -30,3 +30,10 @@ h1 {
 p.photo{
 	text-align: center;
 }
+
+#photo img{
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -khtml-border-radius: 10px; 
+}
