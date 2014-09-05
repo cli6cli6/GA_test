@@ -1,6 +1,29 @@
-p {
+body {
+	background-color: #8B93A7;
 	font-family: helvetica, sans-serif;
 	
+}
+
+p {
+	font-family: helvetica, sans-serif;
+}
+
+nav {
+	}
+
+h1 {
+	
+}
+
+a {
+	padding-right: 10px;
+}
+
+img{
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -khtml-border-radius: 10px; 
 }
 
 a:link {
@@ -13,27 +36,4 @@ a:visited {
 	color: white;
 	}
 
-nav {
-	text-align: center;
-}
 
-body {
-	background-color: #8B93A7;
-	font-family: helvetica, sans-serif;
-	text-align: center;
-}
-
-h1 {
-	text-align: center;
-}
-
-p.photo{
-	text-align: center;
-}
-
-#photo img{
-	border-radius: 10px;
-	-webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -khtml-border-radius: 10px; 
-}
