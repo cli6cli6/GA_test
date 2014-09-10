@@ -1,0 +1,12 @@
+.rec {
+	width: 200px;
+	height: 600px;
+	background-color: black;
+}
+
+.red {
+	background-color: red;
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+}
